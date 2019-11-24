@@ -1,0 +1,174 @@
+[s,fs]=wavread('ba fat7a 1.wav');
+mfcc2(s,fs,12);
+x = fopen('ba fat7a 1.txt','wt');
+fprintf (x, '%d %d %d %d %d %d %d %d %d %d %d %d \n', ans.');
+
+[s,fs]=wavread('ba fat7a 2.wav');
+mfcc2(s,fs,12);
+x = fopen('ba fat7a 2.txt','wt');
+fprintf (x, '%d %d %d %d %d %d %d %d %d %d %d %d \n', ans.');
+
+[s,fs]=wavread('ba fat7a 3.wav');
+mfcc2(s,fs,12);
+x = fopen('ba fat7a 3.txt','wt');
+fprintf (x, '%d %d %d %d %d %d %d %d %d %d %d %d \n', ans.');
+
+[s,fs]=wavread('ba fat7a 4.wav');
+mfcc2(s,fs,12);
+x = fopen('ba fat7a 4.txt','wt');
+fprintf (x, '%d %d %d %d %d %d %d %d %d %d %d %d \n', ans.');
+
+[s,fs]=wavread('ba fat7a 5.wav');
+mfcc2(s,fs,12);
+x = fopen('ba fat7a 5.txt','wt');
+fprintf (x, '%d %d %d %d %d %d %d %d %d %d %d %d \n', ans.');
+
+[s,fs]=wavread('ba fat7a 6.wav');
+mfcc2(s,fs,12);
+x = fopen('ba fat7a 6.txt','wt');
+fprintf (x, '%d %d %d %d %d %d %d %d %d %d %d %d \n', ans.');
+
+[s,fs]=wavread('ba fat7a 7.wav');
+mfcc2(s,fs,12);
+x = fopen('ba fat7a 7.txt','wt');
+fprintf (x, '%d %d %d %d %d %d %d %d %d %d %d %d \n', ans.');
+
+[s,fs]=wavread('ba fat7a 8.wav');
+mfcc2(s,fs,12);
+x = fopen('ba fat7a 8.txt','wt');
+fprintf (x, '%d %d %d %d %d %d %d %d %d %d %d %d \n', ans.');
+
+
+
+[s,fs]=wavread('ba kasra 1.wav');
+mfcc2(s,fs,12);
+x = fopen('ba kasra 1.txt','wt');
+fprintf (x, '%d %d %d %d %d %d %d %d %d %d %d %d \n', ans.');
+
+[s,fs]=wavread('ba kasra 2.wav');
+mfcc2(s,fs,12);
+x = fopen('ba kasra 2.txt','wt');
+fprintf (x, '%d %d %d %d %d %d %d %d %d %d %d %d \n', ans.');
+
+[s,fs]=wavread('ba kasra 3.wav');
+mfcc2(s,fs,12);
+x = fopen('ba kasra 3.txt','wt');
+fprintf (x, '%d %d %d %d %d %d %d %d %d %d %d %d \n', ans.');
+
+[s,fs]=wavread('ba kasra 4.wav');
+mfcc2(s,fs,12);
+x = fopen('ba kasra 4.txt','wt');
+fprintf (x, '%d %d %d %d %d %d %d %d %d %d %d %d \n', ans.');
+
+[s,fs]=wavread('ba kasra 5.wav');
+mfcc2(s,fs,12);
+x = fopen('ba kasra 5.txt','wt');
+fprintf (x, '%d %d %d %d %d %d %d %d %d %d %d %d \n', ans.');
+
+[s,fs]=wavread('ba kasra 6.wav');
+mfcc2(s,fs,12);
+x = fopen('ba kasra 6.txt','wt');
+fprintf (x, '%d %d %d %d %d %d %d %d %d %d %d %d \n', ans.');
+
+[s,fs]=wavread('ba kasra 7.wav');
+mfcc2(s,fs,12);
+x = fopen('ba kasra 7.txt','wt');
+fprintf (x, '%d %d %d %d %d %d %d %d %d %d %d %d \n', ans.');
+
+[s,fs]=wavread('ba kasra 8.wav');
+mfcc2(s,fs,12);
+x = fopen('ba kasra 8.txt','wt');
+fprintf (x, '%d %d %d %d %d %d %d %d %d %d %d %d \n', ans.');
+
+
+
+
+
+
+
+[s,fs]=wavread('ba thama 1.wav');
+mfcc2(s,fs,12);
+x = fopen('ba thama 1.txt','wt');
+fprintf (x, '%d %d %d %d %d %d %d %d %d %d %d %d \n', ans.');
+
+[s,fs]=wavread('ba thama 2.wav');
+mfcc2(s,fs,12);
+x = fopen('ba thama 2.txt','wt');
+fprintf (x, '%d %d %d %d %d %d %d %d %d %d %d %d \n', ans.');
+
+
+[s,fs]=wavread('ba thama 3.wav');
+mfcc2(s,fs,12);
+x = fopen('ba thama 3.txt','wt');
+fprintf (x, '%d %d %d %d %d %d %d %d %d %d %d %d \n', ans.');
+
+[s,fs]=wavread('ba thama 4.wav');
+mfcc2(s,fs,12);
+x = fopen('ba thama 4.txt','wt');
+fprintf (x, '%d %d %d %d %d %d %d %d %d %d %d %d \n', ans.');
+
+
+[s,fs]=wavread('ba thama 5.wav');
+mfcc2(s,fs,12);
+x = fopen('ba thama 5.txt','wt');
+fprintf (x, '%d %d %d %d %d %d %d %d %d %d %d %d \n', ans.');
+
+[s,fs]=wavread('ba thama 6.wav');
+mfcc2(s,fs,12);
+x = fopen('ba thama 6.txt','wt');
+fprintf (x, '%d %d %d %d %d %d %d %d %d %d %d %d \n', ans.');
+
+[s,fs]=wavread('ba thama 7.wav');
+mfcc2(s,fs,12);
+x = fopen('ba thama 7.txt','wt');
+fprintf (x, '%d %d %d %d %d %d %d %d %d %d %d %d \n', ans.');
+
+[s,fs]=wavread('ba thama 8.wav');
+mfcc2(s,fs,12);
+x = fopen('ba thama 8.txt','wt');
+fprintf (x, '%d %d %d %d %d %d %d %d %d %d %d %d \n', ans.');
+
+
+
+[s,fs]=wavread('ba soukoun 1.wav');
+mfcc2(s,fs,12);
+x = fopen('ba soukoun 1.txt','wt');
+fprintf (x, '%d %d %d %d %d %d %d %d %d %d %d %d \n', ans.');
+
+[s,fs]=wavread('ba soukoun 2.wav');
+mfcc2(s,fs,12);
+x = fopen('ba soukoun 2.txt','wt');
+fprintf (x, '%d %d %d %d %d %d %d %d %d %d %d %d \n', ans.');
+
+
+[s,fs]=wavread('ba soukoun 3.wav');
+mfcc2(s,fs,12);
+x = fopen('ba soukoun 3.txt','wt');
+fprintf (x, '%d %d %d %d %d %d %d %d %d %d %d %d \n', ans.');
+
+[s,fs]=wavread('ba soukoun 4.wav');
+mfcc2(s,fs,12);
+x = fopen('ba soukoun 4.txt','wt');
+fprintf (x, '%d %d %d %d %d %d %d %d %d %d %d %d \n', ans.');
+
+[s,fs]=wavread('ba soukoun 5.wav');
+mfcc2(s,fs,12);
+x = fopen('ba soukoun 5.txt','wt');
+fprintf (x, '%d %d %d %d %d %d %d %d %d %d %d %d \n', ans.');
+
+[s,fs]=wavread('ba soukoun 6.wav');
+mfcc2(s,fs,12);
+x = fopen('ba soukoun 6.txt','wt');
+fprintf (x, '%d %d %d %d %d %d %d %d %d %d %d %d \n', ans.');
+
+
+[s,fs]=wavread('ba soukoun 7.wav');
+mfcc2(s,fs,12);
+x = fopen('ba soukoun 7.txt','wt');
+fprintf (x, '%d %d %d %d %d %d %d %d %d %d %d %d \n', ans.');
+
+[s,fs]=wavread('ba soukoun 8.wav');
+mfcc2(s,fs,12);
+x = fopen('ba soukoun 8.txt','wt');
+fprintf (x, '%d %d %d %d %d %d %d %d %d %d %d %d \n', ans.');
+
