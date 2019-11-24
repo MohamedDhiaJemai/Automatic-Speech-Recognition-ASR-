@@ -7,6 +7,9 @@
 3- Classification des phonèmes dans des classes déjà connues,
 4- Evaluation d’une intonation donnée du saint Coran.
 
+![alt text](http:https://raw.githubusercontent.com/MohamedDhiaJemai/Automatic-Speech-Recognition-ASR-/master/Image%20Explicatif.PNG)
+
+
 ## Cadre du sujet
 Ce sujet s’intègre dans le cadre d’évaluation de l’intonation du saint Coran afin de détecter les phonèmes qui posent problèmes pour les "Coran Reader". Par la suite, on peut aider le locuteur à apprendre les règles pour améliorer son intonation.
 
