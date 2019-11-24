@@ -2,7 +2,7 @@
 # Titre: Classification des Phonèmes Arabes pour l’Evaluation de l’Intonation du Saint Coran
 
 ## Ce sujet porte sur quatre volés:
-1- Préparation d’une base vocale des phonèmes arabes,
+1- Préparation d’une base vocale des phonèmes arabes,</br>
 2- Extraction des fichiers MFCC à corresponds à des fichiers sons (fichier.wav vecteur MFCC),
 3- Classification des phonèmes dans des classes déjà connues,
 4- Evaluation d’une intonation donnée du saint Coran.
