@@ -3,9 +3,9 @@
 
 ## Ce sujet porte sur quatre volés:
 1- Préparation d’une base vocale des phonèmes arabes,</br>
-2- Extraction des fichiers MFCC à corresponds à des fichiers sons (fichier.wav vecteur MFCC),
-3- Classification des phonèmes dans des classes déjà connues,
-4- Evaluation d’une intonation donnée du saint Coran.
+2- Extraction des fichiers MFCC à corresponds à des fichiers sons (fichier.wav vecteur MFCC),</br>
+3- Classification des phonèmes dans des classes déjà connues,</br>
+4- Evaluation d’une intonation donnée du saint Coran.</br>
 
 ![alt text](https://raw.githubusercontent.com/MohamedDhiaJemai/Automatic-Speech-Recognition-ASR-/master/Image.PNG)
 
