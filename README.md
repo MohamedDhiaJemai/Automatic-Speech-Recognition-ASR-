@@ -7,7 +7,7 @@
 3- Classification des phonèmes dans des classes déjà connues,
 4- Evaluation d’une intonation donnée du saint Coran.
 
-![alt text](https://raw.githubusercontent.com/MohamedDhiaJemai/Automatic-Speech-Recognition-ASR-/master/Image Explicatif.PNG)
+![alt text](https://raw.githubusercontent.com/MohamedDhiaJemai/Automatic-Speech-Recognition-ASR-/master/Image.PNG)
 
 
 ## Cadre du sujet
